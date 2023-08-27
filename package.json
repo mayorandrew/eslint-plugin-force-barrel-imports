@@ -22,6 +22,7 @@
   },
   "keywords": ["eslint","barrel","module","private module","force barrel","simplify import"],
   "author": "Andrey Starostin <fsstar.mas@gmail.com>",
+  "repository": "github:mayorandrew/eslint-plugin-force-barrel-imports",
   "license": "ISC",
   "dependencies": {
     "@typescript-eslint/utils": "^6.4.1",
